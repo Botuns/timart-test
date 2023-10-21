@@ -1,4 +1,4 @@
-# Database Population Script
+# Database (Included-Population Script)
 
 This script is designed to populate your database with random users and orders using Sequelize and built using graph ql, a promise-based Node.js ORM. The script includes functions for creating users and orders and inserting random data into your database.
 
@@ -17,3 +17,4 @@ Before running the script, make sure you have the following set up:
 
    ```bash
    npm install
+   npm start
